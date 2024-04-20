@@ -1,4 +1,6 @@
 # Sowing Success: How Machine Learning Helps Farmers Select the Best Crops
+![app](https://github.com/manisa504/soilanalysis/blob/main/soil.png)
+https://soilanalysis.streamlit.app/
 
 ## Project Introduction
 
