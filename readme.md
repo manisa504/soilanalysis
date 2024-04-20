@@ -46,6 +46,15 @@ Each row in the dataset represents the soil measurements of a particular field, 
 2. Ensure you have Python and the necessary libraries installed.
 3. Load the dataset and follow the implementation steps outlined above.
 
+## Try the App
+
+To interact with the Crop Selection Assistant application, please visit [here](https://soilanalysis.streamlit.app/).
+
+
+## Feedback and Issue Reporting
+
+We welcome feedback from users of this application. If you have any suggestions for improvement, encounter any issues, or want to report a bug, please open an issue on GitHub or reach out to the project maintainers. Your feedback helps us improve the application and better serve the farming community.
+
 ## Contributors
 
 This project is open for contributions. Please read the contribution guidelines before submitting a pull request.
@@ -53,4 +62,3 @@ This project is open for contributions. Please read the contribution guidelines 
 ## License
 
 This project is licensed under the MIT License - see the LICENSE.md file for details.
-"""
